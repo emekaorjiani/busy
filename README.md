@@ -5,4 +5,5 @@
 
 # SteemNaira 🚀
 
+A Nigerian BlockChain Community
 
