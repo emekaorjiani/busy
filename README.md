@@ -7,3 +7,10 @@
 
 A Nigerian BlockChain Community
 
+
+git clone https://github.com/emekaorjiani/steemnaira.git
+cd steemnaira
+
+npm install
+npm run dev-server
+
